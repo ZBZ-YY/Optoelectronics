@@ -1,6 +1,4 @@
-**光电现状和展望第三次课堂PPT、录音以及转文字。**
-
-
+**光学系统设计参考资料。**
 
 <p align="center"><font size = 10>Github简单介绍 <font></p>
 
